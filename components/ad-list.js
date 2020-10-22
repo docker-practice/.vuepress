@@ -23,4 +23,12 @@ module.exports = [
     url: 'https://www.aliyun.com/product/ecs?source=5176.11533457&userCode=8lx5zmtu',
     weight: 100
   },
+  {
+    name: '加入微信群聊',
+    description: '与 1100+ Docker 使用者交流',
+    strong: '',
+    action: '点击加入',
+    url: 'https://yewm28.coding-pages.com/wechat.jpg',
+    weight: 100
+  },  
 ]
