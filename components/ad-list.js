@@ -5,7 +5,7 @@ module.exports = [
     strong: '1 核 2G 首年 99 元起，高性价比首选',
     action: '立即抢购',
     url: 'https://cloud.tencent.com/act/cps/redirect?redirect=1063&cps_key=3a5255852d5db99dcd5da4c72f05df61&from=console',
-    weight: 100
+    weight: 25
   },
   {
     name: '腾讯云',
@@ -13,7 +13,7 @@ module.exports = [
     strong: '1 核 2G 云服务器，首年 99 元',
     action: '立即抢购',
     url: 'https://cloud.tencent.com/act/cps/redirect?redirect=1062&cps_key=3a5255852d5db99dcd5da4c72f05df61&from=console',
-    weight: 100
+    weight: 50
   },
   {
     name: '阿里云',
@@ -21,7 +21,7 @@ module.exports = [
     strong: '低至 0.95 折起',
     action: '去抢',
     url: 'https://www.aliyun.com/product/ecs?source=5176.11533457&userCode=8lx5zmtu',
-    weight: 100
+    weight: 25
   },
   {
     name: '加入微信群聊',
@@ -29,6 +29,6 @@ module.exports = [
     strong: '',
     action: '点击加入',
     url: 'https://yewm28.coding-pages.com/wechat.jpg',
-    weight: 100
+    weight: 25
   },  
 ]
