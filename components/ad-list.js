@@ -16,15 +16,14 @@ module.exports = [
     url: 'https://cloud.tencent.com/act/cps/redirect?redirect=33867&cps_key=3a5255852d5db99dcd5da4c72f05df61&from=activity',
     weight: 95
   },
-//   {
-//     name: '阿里云',
-//     description: '云服务器 精选特惠，',
-//     strong: '低至 0.73 折起',
-//     action: '去抢',
-//     //url: 'https://www.aliyun.com/product/ecs?source=5176.11533457&userCode=8lx5zmtu',
-//     url: 'https://www.aliyun.com/1111/pintuan-share?ptCode=MTM4MjEzNzgzMTg0MTgzOXx8MTE0fDE%3D&userCode=8lx5zmtu',
-//     weight: 100
-//   },
+  {
+    name: '华为云',
+    description: '1核2G，云耀云服务器',
+    strong: '88元/年起',
+    action: '去抢',
+    url: 'https://activity.huaweicloud.com/1111_promotion/invite.html?fromacct=d4a5a111-c135-4c02-bc2d-3482d5faf2cc',
+    weight: 50
+  },
   {
     name: '阿里云',
     description: '双 11 上云狂欢节，【 开宝箱，抽红包 】',
