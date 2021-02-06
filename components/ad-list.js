@@ -19,7 +19,7 @@ module.exports = [
   },
   {
     name: '华为云',
-    description: '1核2G，云耀云服务器',
+    description: '1 核 2G，云耀云服务器',
     strong: '88元/年起',
     action: '去抢',
     url: 'https://activity.huaweicloud.com/1111_promotion/invite.html?fromacct=d4a5a111-c135-4c02-bc2d-3482d5faf2cc',
@@ -27,12 +27,12 @@ module.exports = [
   },
   {
     name: '阿里云',
-    description: '双 12 爆款特惠',
+    description: '2 核 2G 99元/年 更多云产品爆款特惠',
     strong: '',
     action: '去看看',
     //url: 'https://www.aliyun.com/product/ecs?source=5176.11533457&userCode=8lx5zmtu',
     //url: 'https://www.aliyun.com/1111/pintuan-share?ptCode=MTM4MjEzNzgzMTg0MTgzOXx8MTE0fDE%3D&userCode=8lx5zmtu',
-    url: 'https://www.aliyun.com/minisite/goods?taskCode=pintuan20201212&recordId=296377&userCode=8lx5zmtu',
+    url: 'https://www.aliyun.com/minisite/goods?userCode=8lx5zmtu&share_source=copy_link',
     weight: 95
   },  
 //   {
