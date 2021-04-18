@@ -9,13 +9,11 @@ module.exports = [
 //   },
   {
     name: '腾讯云',
-    description: '2021新春采购节',
-    strong: '1 核 2G 云服务器，首年 95 元',
+    description: '',
+    strong: '1 核 2G 云服务器，首年 99 元',
     action: '立即抢购',
     //url: 'https://cloud.tencent.com/act/cps/redirect?redirect=1062&cps_key=3a5255852d5db99dcd5da4c72f05df61&from=console',
-    // url: 'https://cloud.tencent.com/act/cps/redirect?redirect=33867&cps_key=3a5255852d5db99dcd5da4c72f05df61&from=activity',
-    //url: 'https://cloud.tencent.com/act/cps/redirect?redirect=1062&cps_key=3a5255852d5db99dcd5da4c72f05df61&from=console',
-    url: 'https://cloud.tencent.com/act/cps/redirect?redirect=10488&cps_key=3a5255852d5db99dcd5da4c72f05df61&from=activity',
+    url: 'https://cloud.tencent.com/act/cps/redirect?redirect=1062&cps_key=3a5255852d5db99dcd5da4c72f05df61&from=console',
     weight: 95
   },
   {
