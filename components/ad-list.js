@@ -30,8 +30,10 @@ module.exports = [
     description: '618 钜惠',
     strong: '1 核 2G 79.86元/年 更多云产品爆款特惠',
     action: '去看看',
+    // ecs
     //url: 'https://www.aliyun.com/product/ecs?source=5176.11533457&userCode=8lx5zmtu',
-    url: 'https://www.aliyun.com/activity/ambassador/share-gift/goods?taskCode=share618&recordId=691752&userCode=8lx5zmtu',
+    url: 'https://www.aliyun.com/activity/618/2021?taskCode=share-mck618&recordId=717971&userCode=8lx5zmtu',
+    // 云小站
     // url: 'https://www.aliyun.com/minisite/goods?userCode=8lx5zmtu&share_source=copy_link',
     weight: 95
   },  
